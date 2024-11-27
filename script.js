@@ -1,4 +1,4 @@
-const API_URL = "https://kaveesha3sample.vercel.app/keywords";
+const API_URL = "https://kaveesha3sample1.vercel.app/server.js";
 
 const keywordForm = document.getElementById("keywordForm");
 const keywordInput = document.getElementById("keywordInput");
